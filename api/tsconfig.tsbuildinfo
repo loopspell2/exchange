@@ -1,0 +1,1 @@
+{"root":["./src/redismanger.ts","./src/app.ts","./src/index.ts","./src/auth/auth.controller.ts","./src/controller/depth.ts","./src/controller/klines.ts","./src/controller/order.ts","./src/controller/ticker.ts","./src/controller/trade.ts","./src/lib/definations.ts","./src/routes/router.ts","./src/types/index.ts","./src/types/to.ts"],"version":"5.6.2"}
